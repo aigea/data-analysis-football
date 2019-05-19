@@ -26,6 +26,7 @@ For the datasets used, I will answer the following research questions:
 ### Prerequisites
 
 This project uses [Python](https://www.python.org). You may download [Anaconda](https://www.anaconda.com/distribution/#download-section) to visualize and run the iPython notebook with Jupyter Notebooks.
+Please make sure to also download the relevant CSV files and decompress them if they are zipped.
 
 ## Author
 
