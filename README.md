@@ -1,6 +1,5 @@
 
-<img src="https://github.com/aigea/data-analysis-football/blob/master/Football%20Stadium%20Picture.jpg
-g">
+<img src="https://github.com/aigea/data-analysis-football/blob/master/Football%20Stadium%20Picture.jpg">
 # Data Analysis of Football players and matches
 
 > Exploring interesting research questions about football players and matches dataset (2008 - 2016)
